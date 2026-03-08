@@ -1,4 +1,4 @@
-Log output
+# Kubernetes submissions
 
 ## Exercises
 
